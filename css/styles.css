@@ -1,0 +1,47 @@
+.bio {
+  width: 100%;
+
+}
+
+.column {
+  float:left;
+  width: 31%;
+  margin: 5px;
+  border: solid pink;
+  padding: 5px;
+  background-color: #C1D0CC;
+}
+.column p {
+  text-align: justify;
+}
+img {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: #58A663;
+  font-family: sans-serif;
+}
+.column h2 {
+  font-style: italic;
+  text-decoration: underline;
+}
+.mission {
+  font-style: italic;
+  color: #CFD9D0;
+  text-align: center;
+}
+
+.mission h2 {
+  font-style: normal;
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+  color: pink;
+
+
+}
